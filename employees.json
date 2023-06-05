@@ -1,0 +1,75 @@
+[
+
+    {
+        "employeeID" :"1",
+        "name":"chino",
+        "salary":"65k",
+        "department":"nails"
+    },
+
+    {
+        "employeeID": "2",
+        "name":"beves",
+        "salary":"30k",
+        "department":"retail"
+
+    },
+    {
+        "employeeID":"3",
+        "name":"Vane",
+        "salary":"60k",
+        "department":"makeup artist"
+    },
+    {
+        "employeeID":"4",
+        "name":"Ivan",
+        "salary":"100k",
+        "department":"accountant"
+    },
+    
+    {
+        "employeeID":"5",
+        "name":"jaz",
+        "salary":"55k",
+        "department":"retail"
+
+    },
+
+    {
+        "employeeID":"6",
+        "name":"manolo",
+        "salary":"80k",
+        "department":"hr"
+    },
+
+    {
+      "employeeID":"7",
+      "name":"juan",
+       "salary":"70k",
+      "department":"marketing"
+
+    },
+
+    {
+        "employeeID":"8",
+        "name":"maria",
+        "salary":"75k",
+        "department":"retail"
+    },
+
+    {
+         "employeeID":"9",
+         "name":"junior",
+         "salary":"45k",
+         "department":"bank teller"
+    },
+
+    {
+        "employeeId":"10",
+        "name":"melissa",
+        "salary":"89k",
+        "department":"idk"
+    }
+
+
+]
